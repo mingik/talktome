@@ -1,0 +1,22 @@
+*.*~
+
+# Optional REPL history
+.node_repl_history
+### Elm template
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
+
+# Desktop Services Store on macOS
+.DS_Store
+
+/test-app/
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
